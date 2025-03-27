@@ -22,7 +22,7 @@ A comprehensive collection of diverse projects focused on various aspects of dat
 
 3.Operation Analytics and Investigating Metric Spike 
 
--
+-[Repository Link](https://github.com/RashidhaBegum/Operation-Analytics-and-Investigating-Metric-Spike)
 - Conducted a thorough examination of operational data to identify and understand sudden spikes in key performance metrics, leading to actionable improvements.
 
  4.Hiring Process Analytics
