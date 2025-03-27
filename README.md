@@ -42,10 +42,10 @@ A comprehensive collection of diverse projects focused on various aspects of dat
 
 7.Analyzing the Impact of Car Features on Price & Profitability
 
--[Repository Link](
+-[Repository Link](https://github.com/RashidhaBegum/Analyzing-the-Impact-of-Car-Features-on-Price-and-Profitability)
 - Evaluated the impact of various car features on pricing and profitability to identify trends influencing consumer choices in the automotive market.
 
 8.ABC Call Volume Analysis
 
--
+-[Repository Link](
 - Examining Call Volume Data to enhance Call Center Operations and boost Customer service efficiency 
