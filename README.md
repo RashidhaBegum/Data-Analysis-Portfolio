@@ -37,12 +37,12 @@ A comprehensive collection of diverse projects focused on various aspects of dat
 
 6.Bank Loan Case Study
 
--
+-[Repository Link](https://github.com/RashidhaBegum/Bank-Loan-Case-Study)
 - Investigated trends in loan approvals and defaults, revealing critical insights to inform financial decision-making and risk assessment.
 
 7.Analyzing the Impact of Car Features on Price & Profitability
 
--
+-[Repository Link](
 - Evaluated the impact of various car features on pricing and profitability to identify trends influencing consumer choices in the automotive market.
 
 8.ABC Call Volume Analysis
