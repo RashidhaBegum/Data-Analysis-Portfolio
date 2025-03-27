@@ -32,7 +32,7 @@ A comprehensive collection of diverse projects focused on various aspects of dat
 
   5.IMDb Movie Analysis 
 
-  -
+  -[Repository Link](https://github.com/RashidhaBegum/IMDB-Movie-Analysis)
   - Analyzed IMDb movie datasets to explore factors such as ratings, genres, and viewer preferences, offering comprehensive insights into audience trends.
 
 6.Bank Loan Case Study
