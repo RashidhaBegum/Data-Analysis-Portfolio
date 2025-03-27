@@ -17,7 +17,7 @@ A comprehensive collection of diverse projects focused on various aspects of dat
 
 2.Instagram User Analytics
 
--
+-[Repository Link](https://github.com/RashidhaBegum/Instagram-User-Analytics)
 - Analyzed user engagement patterns and behavioral trends on Instagram to deliver actionable insights for improving marketing strategies and audience targeting.  
 
 3.Operation Analytics and Investigating Metric Spike 
