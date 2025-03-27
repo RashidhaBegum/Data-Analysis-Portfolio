@@ -13,7 +13,7 @@ A comprehensive collection of diverse projects focused on various aspects of dat
 
 - [Repository Link](https://github.com/RashidhaBegum/Data-Analytics-Process)
 - This Project focuses on a basic task related to the data analytics process,specifically Neccklace Selection.The Analysis and Findings can be accessed via the provided 
-  Google Drive Link
+  Repository Link
 
 2.Instagram User Analytics
 
