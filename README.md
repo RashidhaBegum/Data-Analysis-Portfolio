@@ -53,6 +53,6 @@ A comprehensive collection of diverse projects focused on various aspects of dat
 ### Additional Resources:
 
 - [PDF Copy of Data Analysis Portfolio](https://drive.google.com/file/d/1bIz1gEwg3HR2Jk4vCuzEFs-YTTBc9ThD/view?usp=sharing)
-- LinkedIn:
-- E-mail: rashidha.abdul@gmail.com
-- Github : @RashidhaBegum
+- ### LinkedIn:
+- ### E-mail: [rashidha.abdul@gmail.com](mailto:rashidha.abdul@gmail.com)
+- ### Github : @RashidhaBegum
